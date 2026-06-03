@@ -12,8 +12,7 @@ int main()
     assert(calcular_fibonacci(9) == 34);
 
     printf("Testes concluidos\n");
-    printf("Feito por: Lara Fazani");
-}
+    printf("Feito por: Lara Fazani\n");
 
     return 0;
-
+}
