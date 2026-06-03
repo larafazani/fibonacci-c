@@ -4,7 +4,7 @@
 
 int main() 
 {
-    printf("TESTES AUTOMATIZADOS\n\n");
+    printf("TESTES AUTOMATIZADOS\n");
 
     assert(calcular_fibonacci(0) == 0);
     assert(calcular_fibonacci(1) == 1);
@@ -12,7 +12,8 @@ int main()
     assert(calcular_fibonacci(9) == 34);
 
     printf("Testes concluidos\n");
-    printf("Feito por: Lara Fazani);
+    printf("Feito por: Lara Fazani");
+}
 
     return 0;
-}
+
